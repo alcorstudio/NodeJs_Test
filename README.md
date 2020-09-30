@@ -1,5 +1,5 @@
 # NodeJs_Test
-### Test NodeJS projects
+### Test NodeJS projects 1.0.1
 
 ## Task
 Build firs application using NodeJs Technology 
